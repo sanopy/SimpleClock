@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/uoo38/SimpleClock/issues"
   },
-  "homepage": "https://github.com/uoo38/SimpleClock#readme"
+  "homepage": "https://github.com/uoo38/SimpleClock#readme",
+  "devDependencies": {
+    "less": "^2.7.2"
+  }
 }
