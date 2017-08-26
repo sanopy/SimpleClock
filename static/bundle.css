@@ -1,18 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Poiret+One');
-
 body {
   font-family: 'Poiret One', cursive;
 }
-
-body > h1 {
+body h1 {
   text-align: center;
 }
-
-body > #clock {
+body #clock {
   margin-top: 100px;
 }
-
-body > #clock > p {
+body #clock p {
   text-align: center;
   font-size: 300%;
 }
